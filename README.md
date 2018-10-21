@@ -1,8 +1,9 @@
 # NASA_SpaceApps2018_MoonGateway
 
 Site to share repo/contents about this challenge for SmartCamp Team. Credits NASA and Universities Network.
+
 [![Watch the video](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/Global.png)](https://youtu.be/tHMD9SqyFK8)
-![alt text](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/Global.png)
+
 There are numerous scientific and engineering considerations that would come into play in deciding what research a lunar rover will conduct, including where it will land. Scientists use imaging data from satellites orbiting the moon to learn about its surface and guide their decision-making to choose scientifically significant landing sites.
 ![alt text](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/Landing00_SouthPole_IluminationMap.jpg)
 Specific goal for this mission is put to work rover to find/extract iced water. We learn about possible handicaps on zone were was detected: evaluate better zones and times in diary journeys to recharge with photovoltaic absortion (LOLA measurement), deal in shadow times with low temperatures, choose the best path for the orography defined by Lunar Reconaissance Orbiter (LRO).
