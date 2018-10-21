@@ -2,7 +2,7 @@
 
 Site to share repo/contents about this challenge for SmartCamp Team. Credits NASA and Universities Network.
 
-[![Watch the video](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/Global.png)](https://youtu.be/tHMD9SqyFK8)
+[![Watch the video](https://img.youtube.com/vi/tHMD9SqyFK8/0.jpg)](https://youtu.be/tHMD9SqyFK8)
 
 There are numerous scientific and engineering considerations that would come into play in deciding what research a lunar rover will conduct, including where it will land. Scientists use imaging data from satellites orbiting the moon to learn about its surface and guide their decision-making to choose scientifically significant landing sites.
 ![alt text](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/Landing00_SouthPole_IluminationMap.jpg)
