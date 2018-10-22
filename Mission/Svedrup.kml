@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+hint="target=moon">
+  
+  <Document>
+    <Placemark>
+      <name>Sverdrup</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.8267021km<br/>
+            Target: Moon
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-153.38746456811813,-88.32089829766547</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
