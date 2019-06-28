@@ -11,5 +11,3 @@ Specific goal for this mission is put to work rover to find/extract iced water. 
 First part of problem was to determine a safe zone to land, as close as possible to the ice water that was detected when In October 2017, LCROSS was ordered to impact a shaded region permanently near the lunar south pole, which resulted in the discovery of water ice.
 ![alt text](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/Landing02.png)
 Analyzing the available data by LRO, the landing zone can not be the same with the places where the ice water is, since these places correspond to deep places in the South Pole, where the light does not usually enter through the unevenness of the terrain. The rover depends on sunlight to externd its mission, and current technology is not ready, especially batteries, to work at such low temperatures for a period of time without additional energy expense.
-![alt text](https://github.com/sfrias/NASA_SpaceApps2018_MoonGateway/blob/master/PatientShockSepticMore3d.png)
-
